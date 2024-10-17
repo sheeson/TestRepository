@@ -1,1 +1,1 @@
-# DEMO
+# Class Project
